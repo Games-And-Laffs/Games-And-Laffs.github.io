@@ -20,4 +20,6 @@ window.onload = function() {
     <iframe id="embededGame" src="https://play.idevgames.co.uk/embed/roll-and-jump-cube" width="840px" height="480px" 
     scrolling="no" seamless="seamless" frameBorder="0" style="position: absolute;top:0;left: 0;width: 100%;height: 100%;">Browser not compatible.</iframe>
 </div>
-<
+<br>
+<button onclick="window.location.href = 'games';">Back to games!</button>
+</html>
