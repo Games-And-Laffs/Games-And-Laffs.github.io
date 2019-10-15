@@ -23,7 +23,8 @@ Memes!
 <br>
 <img src="t-series.jpg" alt="Sorry, this meme can't appear on this browser/device.">
 <br>
+<img src="memes.jpg" alt="Sorry, this meme can't appear on this browser/device.">
+<br>
 <button onclick="window.location.href = 'scarymemes';">HALLOWEEN Memes! (viewer discretion is advised)</button>
 <br>
-
 <button onclick="window.location.href = 'index';">Back to home page</button>
