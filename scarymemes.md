@@ -7,4 +7,4 @@ Halloween Memes!
 </p>
 <img src="noash.jpg" alt="Sorry, this meme can't appear on this browser/device.">
 <br>
-<button onclick="window.location.href = 'index';">Back to home page</button>
+<button onclick="window.location.href = 'memes';">Back to memes</button>
