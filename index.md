@@ -7,5 +7,5 @@ Welcome to games and laffs!
 <br>
 <button onclick="window.location.href = 'games';">Here are our games!</button>
 <br>
-<button onclick="window.location.href = 'Memes';">Here are our memes!</button>
+<button onclick="window.location.href = 'memes';">Here are our memes!</button>
 </html>
