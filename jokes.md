@@ -9,8 +9,8 @@ Jokes
 <br>
 ------------------------------------------------------------------------
 <br>
-<button onclick="alert('That's how I lost my job as a bus driver');">I gave up my seat to a blind person on a bus</button>
-<!----><br>
+<button onclick="alert('Thats how I lost my job as a bus driver');">I gave up my seat to a blind person on a bus</button>
+<!--<br>
 <button onclick="alert('PLine');">Joke</button>-->
 <br><br>
 <button onclick="window.location.href = 'index';">Back to Home Page</button>
