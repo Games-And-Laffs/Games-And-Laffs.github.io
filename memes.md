@@ -5,6 +5,8 @@ Memes!
 </h1>
 <h2>You can suggest memes to put on here by e-mailing <a href="mailto:puzzledude98@outlook.com?subject=Meme%20Suggestion">puzzledude98@outlook.com</a> your memes!</h2>
 </p>
+<img src="magic.jpeg" hightalt="Sorry, this meme can't appear on this browser/device." height="60%" width="60%">
+<br>
 <img src="htmlhead.jpeg" hightalt="Sorry, this meme can't appear on this browser/device." height="60%" width="60%">
 <br>
 <img src="codecompile.jpg" alt="Sorry, this meme can't appear on this browser/device.">
