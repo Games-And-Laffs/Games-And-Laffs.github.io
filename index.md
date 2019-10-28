@@ -8,4 +8,6 @@ Welcome to games and laffs!
 <button onclick="window.location.href = 'games';">Here are our games!</button>
 <br>
 <button onclick="window.location.href = 'memes';">Here are our memes!</button>
+<br>
+<button onclick="window.location.href = 'teamtrees';">Click here to learn about #TeamTrees!</button>
 </html>
