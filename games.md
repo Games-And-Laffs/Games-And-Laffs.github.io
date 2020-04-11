@@ -3,7 +3,7 @@
 <br>
 <button onclick="window.location.href = 'digtochina';">Dig to China</button>
 <br>
-<button onclick="window.location.href = 'cutter';">Cutter</button>
+<button onclick="window.location.href = 'not-that-dead';">Not That Dead</button>
 <br>
 <button onclick="window.location.href = 'index';">Back to home page</button>
 <br>
